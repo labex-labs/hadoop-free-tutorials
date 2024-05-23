@@ -6,8 +6,8 @@
 
 Unlock the power of Hadoop and learn to handle big data across clusters efficiently. Our Skill Tree guides you from Hadoop basics like HDFS and MapReduce to advanced topics such as YARN and Apache Hive. Gain the skills to analyze and manage large datasets, a must-have for any data professional.
 
-|   Index | Name                                         | Difficulty   | Tutorial                                                                                        |
-|---------|----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------|
+|   Index | Name                                        | Difficulty   | Tutorial                                                                                       |
+|---------|---------------------------------------------|--------------|------------------------------------------------------------------------------------------------|
 |      01 | 📖 Hadoop Installation and Deployment        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/hadoop-installation-and-deployment-272321)        |
 |      02 | 📖 Architecture and Operations of HDFS       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/architecture-and-operations-of-hdfs-272320)       |
 |      03 | 📖 YARN Architecture and Development         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/yarn-architecture-and-development-272324)         |
@@ -119,7 +119,8 @@ Unlock the power of Hadoop and learn to handle big data across clusters efficien
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hadoop Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Hadoop Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
